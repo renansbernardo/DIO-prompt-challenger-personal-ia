@@ -35,4 +35,4 @@ Regra 3: tipo de treino
 
 
 # Resultado esperado
-Com base nos valores informados, crie um treino personalizado.
+Com base nos valores informados, crie um treino personalizado para uma pessoa ficar marombeiro na cidade de Salvador.
